@@ -1,0 +1,9 @@
+#include<stdio.h>
+//int  main () {
+	printf("poli");
+	int a = 125.0;
+	/*
+	int b = 126;
+	*/
+	hello = hi;
+}
